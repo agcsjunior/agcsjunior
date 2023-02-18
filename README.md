@@ -2,7 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Debasish Mahapatra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
+<p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/agcsjunior/count.svg" />
+</p>
+
+
 
 
 - 🌱 I’m currently learning **React**
